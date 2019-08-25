@@ -1956,6 +1956,9 @@ footer .newsletter_form .form-control {
   .sup_x{
     font-size: 10px;
   }
+	.misfit{
+	font-size:15px;
+	}
 }
 
 
@@ -3453,15 +3456,12 @@ textarea.form-control {
 }
 
 
-
-
 /*--------------------------------------------------*/
 /*--------------------------------------------------*/
 /*---Tickets-----------------------------------------------*/
-.tickets
+. ticket
 {
-    background:rgba(0,0,0,.9);
-    cursor:pointer;
+    background:rgba(0,0,0,.9);    cursor:pointer;
     display: none;
     height:100vh;
     position:fixed;
@@ -3513,7 +3513,8 @@ textarea.form-control {
     height: 100vh;
     max-height: 2000px;
   }
-}
 
 
+
+/*
 /*
